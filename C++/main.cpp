@@ -56,10 +56,8 @@ public:
 private:
     ScrolledWindow main_window;
     Fixed fixed;
-
     Button m_button1, m_button2;
     Image m_img;
-
     
     string path;
     Mat img;
